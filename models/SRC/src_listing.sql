@@ -1,6 +1,6 @@
 WITH raw_listings
 AS (
-	SELECT *, 1 as some_column
+	SELECT *, 1 as some_column1
 	FROM airbnb.raw.raw_listings
 	)
 SELECT id AS listing_id,
