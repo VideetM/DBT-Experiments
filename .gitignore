@@ -2,3 +2,4 @@ yellow_tripdata_2021-01.csv
 target/
 dbt_packages/
 logs/
+tempCodeRunnerFile.python
