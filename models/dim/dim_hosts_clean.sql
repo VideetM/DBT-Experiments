@@ -1,4 +1,8 @@
+{{ config(
 
+materialized = 'view'
+
+) }}
 
 WITH SRC_HOSTS
 AS (
